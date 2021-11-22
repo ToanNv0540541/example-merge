@@ -1,18 +1,19 @@
-{
- "game": [
-    {
-        "Name":"adu",
-        "Description":"deptrai"
-    },
- 
-    {
-        "Name":"adu2",
-        "Description":"deptraina"
-    },
- 
-    {
-        "Name":"gheba",
-        "Description":"lol"
-    }
- ]
-}
+[
+   {
+       "Name":"deptrai",
+       "Description":"khongcogi",
+       "IconUrl":""
+   },
+
+   {
+       "Name":"deptrai2",
+       "Description":"khongcogi",
+       "IconUrl":""
+   },
+
+   {
+       "Name":"deptrai3",
+       "Description":"khongcogi",
+       "IconUrl":""
+   }
+]
