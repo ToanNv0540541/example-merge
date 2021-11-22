@@ -1,19 +1,16 @@
 [
     {
         "Name":"adu",
-        "Description":"deptrai",
-        "IconUrl":""
+        "Description":"deptrai"
     },
  
     {
         "Name":"adu2",
-        "Description":"deptraina",
-        "IconUrl":""
+        "Description":"deptraina"
     },
  
     {
         "Name":"gheba",
-        "Description":"lol",
-        "IconUrl":""
+        "Description":"lol"
     }
  ]
